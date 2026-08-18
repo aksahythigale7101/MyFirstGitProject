@@ -17,4 +17,5 @@ import PatternProgram
 
 
 # PatternProgram.SQUAREPATTERN()
-PatternProgram.RIGHTTRAINGLE()
+# PatternProgram.RIGHTTRAINGLE()
+PatternProgram.INVERTEDTRAINGLE()
