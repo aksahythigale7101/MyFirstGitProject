@@ -4,7 +4,7 @@ def revString(str):
         print(str[i],end=" ")
 
 
-#-------------------------------
+#----------palindrom---------------------#
 
 def stringPalindrome(s):
     tempstring = "";
