@@ -18,10 +18,23 @@ def stringPalindrome(s):
     if tempstring == s:
       print("String Palindrome checked")
     else:
-     print("String not Palindrome checked")
-#----------Angrams---------------------#
- def stringAngrams(s1,s2):
+      print("String not Palindrome checked")
+
+#----------Angrams---------------------
+def stringAngrams(s1,s2):
       if sorted(s1) == sorted(s2):
           print("ANGRAMS")
       else:
           print("NOT ANGRAMS")
+
+# ----------LongestCommonPrefix--------------
+def LongestCommonPrefix():
+    arr = ["flower", "flow", "flight"]
+    prefix = arr[0]
+
+    for i in range(1, len(arr)):
+        while not arr[i].startswith(prefix):
+            prefix = prefix[: - 1]
+
+    print(prefix)
+
