@@ -15,7 +15,7 @@ import StringFunctions
 
 import PatternProgram
 
-
+print("pattern Program")
 # PatternProgram.SQUAREPATTERN()
 # PatternProgram.RIGHTTRAINGLE()
 # PatternProgram.INVERTEDTRAINGLE()
