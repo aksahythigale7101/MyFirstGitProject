@@ -6,3 +6,6 @@ import StringFunctions
 #string is palindrome
 StringFunctions.stringPalindrome("MADAM")
 
+#string is Angrams
+StringFunctions.stringAngrams("geeks", "kseeg")
+
