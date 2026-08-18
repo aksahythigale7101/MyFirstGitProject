@@ -19,4 +19,9 @@ def stringPalindrome(s):
       print("String Palindrome checked")
     else:
      print("String not Palindrome checked")
-
+#----------Angrams---------------------#
+ def stringAngrams(s1,s2):
+      if sorted(s1) == sorted(s2):
+          print("ANGRAMS")
+      else:
+          print("NOT ANGRAMS")
