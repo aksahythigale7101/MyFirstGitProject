@@ -7,6 +7,14 @@ import StringFunctions
 #StringFunctions.stringPalindrome("MADAM")
 
 
-StringFunctions.stringAngrams("geeks", "kseeg")
+# StringFunctions.stringAngrams("geeks", "kseeg")
 
-StringFunctions.LongestCommonPrefix()
+# StringFunctions.LongestCommonPrefix()
+
+
+
+import PatternProgram
+
+
+# PatternProgram.SQUAREPATTERN()
+PatternProgram.RIGHTTRAINGLE()
