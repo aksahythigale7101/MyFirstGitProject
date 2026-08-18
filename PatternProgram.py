@@ -21,6 +21,6 @@ def INVERTEDTRAINGLE():
         for j in range(i):
             print("*", end=" ")
 
-        print()
+        print()#comment
 
 # ------------------------------------------
