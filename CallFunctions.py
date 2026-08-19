@@ -6,7 +6,7 @@ import StringFunctions
 
 #StringFunctions.stringPalindrome("MADAM")
 
-
+print("string functions")
 # StringFunctions.stringAngrams("geeks", "kseeg")
 
 # StringFunctions.LongestCommonPrefix()
@@ -20,3 +20,6 @@ print("pattern Program")
 # PatternProgram.RIGHTTRAINGLE()
 # PatternProgram.INVERTEDTRAINGLE()
 PatternProgram.SAMENUMBERTRAINGLE()
+
+
+
